@@ -1,0 +1,42 @@
+.bk-color {
+    background-color: rgb(237, 86, 75);
+}
+
+.color-gray {
+    background-color: rgb(59, 59, 59);
+    border-top: 10px solid rgb(237, 86, 75);
+}
+
+.shell{
+    padding: 50px 20px;
+}
+
+.img-responsive{
+    width: 200px;
+}
+
+.section-title{
+    border-bottom: solid 1px gray;
+    margin: 20px;
+    padding-top: 30px;
+}
+
+.plain{
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px dotted gray;
+}
+
+.li-none {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-style{
+    background-color: rgb(41, 41, 41);
+    color: white;
+    padding-top: 10px;
+}
+
+
